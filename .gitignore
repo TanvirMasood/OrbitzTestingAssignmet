@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings
+/result/
+/test-output/
+/jarFiles/
+/exefiles/
+/bin/
